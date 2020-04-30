@@ -1,4 +1,4 @@
-# module 1 Rubric
+# Module 1 Rubric
 
 ## Build classes using OO Ruby Syntax
 
